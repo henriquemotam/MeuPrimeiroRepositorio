@@ -1,8 +1,8 @@
 
-#include stdio.h
+#include <stdio.h>
 
 void imprimirBob(){
-	print ("Eu sou o BOB!");
+	printf ("Eu sou o BOB!");
 }
 
 int main(){
